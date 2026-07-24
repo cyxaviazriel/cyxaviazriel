@@ -28,32 +28,17 @@ My background in computer science has inspired a strong passion for cybersecurit
 
 ---
 
-## Security Tools
-## Reconnaissance & Scanning
+### Security Tools
+### Reconnaissance & Scanning
 <div>
     <img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge&logoColor=white" alt="Nmap" />
 </div>
 
 ## Vulnerability Assessment
-</div>
-<img src="https://img.shields.io/badge/-Nessus-00A4EF?&style=for-the-badge&logoColor=white" alt="Nessus" />
-</div>
-
-</div>
-<img src="https://img.shields.io/badge/-OpenVAS-4CAF50?&style=for-the-badge&logoColor=white" alt="OpenVAS" />
-</div>
-
-## Enumeration
 <div>
     <img src="https://img.shields.io/badge/-Nessus-00A4EF?&style=for-the-badge&logoColor=white" alt="Nessus" />
     <img src="https://img.shields.io/badge/-OpenVAS-4CAF50?&style=for-the-badge&logoColor=white" alt="OpenVAS" />
-</div>
-
-<div>
     <img src="https://img.shields.io/badge/-Nikto-CC0000?&style=for-the-badge&logoColor=white" alt="Nikto" />
-</div>
-
-<div>
     <img src="https://img.shields.io/badge/-SQLMap-F57C00?&style=for-the-badge&logoColor=white" alt="SQLMap" />
 </div>
 
@@ -63,65 +48,36 @@ My background in computer science has inspired a strong passion for cybersecurit
 </div>
 
 ## Supporting Tools
-- Burp Suite
-- Wireshark
+<div>
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?&style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</div>
 
 ## Operating Systems
-- Kali Linux
-- Ubuntu Linux
+<div>
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Linux" />
+</div>
 
 ## Virtualization
-- Oracle VirtualBox
+<div>
+    <img src="https://img.shields.io/badge/-Oracle%20VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" alt="Oracle VirtualBox" />
+</div>
 
-# Certifications
-- Cisco Networking Academy – Introduction to Cybersecurity
-- Cisco Networking Academy – Networking Basics
-- Cisco Networking Academy – Ethical Hacker
-- TS Academy – Cybersecurity Certification
+## Certifications
+<div>
+    <a href="YOUR_CERTIFICATE_LINK">
+        <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+    </a>
+    <a href="YOUR_CERTIFICATE_LINK">
+        <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+    </a>
+    <a href="YOUR_CERTIFICATE_LINK">
+        <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+    </a>
+    <a href="YOUR_CERTIFICATE_LINK">
+        <img src="https://img.shields.io/badge/TS%20Academy-Cybersecurity%20Certification-4CAF50?style=for-the-badge&logoColor=white" />
+    </a>
+</div>
 
----
-
-# Projects
-## Vulnerability Assessment & Penetration Testing Capstone
-Performed a comprehensive vulnerability assessment against Kioptrix and Metasploitable 2 laboratory environments.
-
-### Responsibilities
-- Network reconnaissance
-- Service enumeration
-- Vulnerability scanning
-- Exploitation of vulnerable services
-- Risk assessment
-- Security recommendations
-- Security documentation
-
-### Tools Used
-- Nmap
-- Nessus
-- OpenVAS
-- Enum4Linux
-- Nikto
-- SQLMap
-- Metasploit Framework
-- Burp Suite
-- Wireshark
-- Kali Linux
-- Ubuntu
-- Oracle VirtualBox
-
-### Deliverables
-- Executive Summary
-- Risk Assessment
-- Vulnerability Analysis
-- Technical Findings
-- Security Recommendations
-- Patch Management Policy
-- Password Policy
-- Access Control Policy
-- Vulnerability Management Policy
-
----
-
-
----
-
-> "Cybersecurity is not just about finding vulnerabilities—it's about understanding risk, protecting systems, and continuously improving security."
+Cybersecurity is not just about finding vulnerabilities—it's about understanding risk, protecting systems, and continuously improving security."
