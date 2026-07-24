@@ -95,4 +95,9 @@ My background in computer science has inspired a strong passion for cybersecurit
     </a>
 </div>
 
+### **Project**
+<a href="https://github.com/cyxaviazriel/apex-healthcare-vapt" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-Apex%20Healthcare%20VAPT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Apex Healthcare VAPT"/>
+</a>
+
 **Cybersecurity is not just about finding vulnerabilities it's about understanding risk, protecting systems, and continuously improving security.**
