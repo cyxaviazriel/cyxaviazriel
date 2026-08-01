@@ -88,11 +88,34 @@ My background in computer science has inspired a strong passion for cybersecurit
         <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
     </a>
     <a href="YOUR_CERTIFICATE_LINK">
+        <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Getting%20Started%20with%20Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+    </a>
+    <a href="YOUR_CERTIFICATE_LINK">
+        <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Network%20Defense-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+    </a>
+    <a href="YOUR_CERTIFICATE_LINK">
+        <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Junior%20Cybersecurity%20Analyst%20Career%20Path%20Exam-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+    </a>
+    <a href="YOUR_CERTIFICATE_LINK">
+        <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Networking%20Devices%20and%20Initial%20Configuration-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+    </a>
+    <a href="YOUR_CERTIFICATE_LINK">
         <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
     </a>
     <a href="YOUR_CERTIFICATE_LINK">
-        <img src="https://img.shields.io/badge/TS%20Academy-Cybersecurity%20Certification-4CAF50?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Endpoint%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
     </a>
+    <a href="YOUR_CERTIFICATE_LINK">
+        <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Cyber%20Threat%20Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+    </a>
+</div>
+
+### **Professional Certifications (In Progress)**
+
+<div>
+    <img src="https://img.shields.io/badge/CompTIA-Network%2B-F57C00?style=for-the-badge&logo=comptia&logoColor=white" />
+    <img src="https://img.shields.io/badge/CompTIA-Security%2B-F57C00?style=for-the-badge&logo=comptia&logoColor=white" />
+    <img src="https://img.shields.io/badge/CompTIA-CySA%2B-F57C00?style=for-the-badge&logo=comptia&logoColor=white" />
 </div>
 
 ### **Project**
