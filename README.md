@@ -126,4 +126,5 @@ My technical background has inspired a strong passion for cybersecurity, and I a
 <a href="https://github.com/cyxaviazriel/CodeAlpha_PhishingAwareness" target="_blank">
   <img src="https://img.shields.io/badge/View%20Project-CodeAlpha%20Phishing%20Awareness-181717?style=for-the-badge&logo=github&logoColor=white" alt="CodeAlpha Phishing Awareness"/>
 </a>
+
 **Cybersecurity is not just about finding vulnerabilities it's about understanding risk, protecting systems, and continuously improving security.**
