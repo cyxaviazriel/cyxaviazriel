@@ -85,6 +85,7 @@ My technical background has inspired a strong passion for cybersecurity, and I a
 ### **Certifications**
 
 <div>
+    <!-- Cisco Networking Academy -->
     <a href="YOUR_CERTIFICATE_LINK">
         <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
     </a>
@@ -112,6 +113,7 @@ My technical background has inspired a strong passion for cybersecurity, and I a
     <a href="YOUR_CERTIFICATE_LINK">
         <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Cyber%20Threat%20Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
     </a>
+
 </div>
 
 ### **Professional Certifications (In Progress)**
