@@ -129,16 +129,13 @@ My technical background has inspired a strong passion for cybersecurity, and I a
     </a>
     
 
-    <!-- TS Academy — Cybersecurity -->
-    <a href="YOUR_TS_ACADEMY_CERTIFICATE_LINK">
-        <img src="https://img.shields.io/badge/TS%20Academy-Cybersecurity-007BFF?style=for-the-badge&logo=shield&logoColor=white" alt="TS Academy Cybersecurity" />
-    </a>
+  <a href="YOUR_TS_ACADEMY_CERTIFICATE_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/TS%20ACADEMY-CYBERSECURITY-007BFF?style=for-the-badge&logo=shield&logoColor=white" alt="TS Academy Cybersecurity" />
+</a>
 
-    <!-- OPSWAT — ICIP -->
-    <a href="YOUR_OPSWAT_CERTIFICATE_LINK">
-        <img src="https://img.shields.io/badge/OPSWAT-Introduction%20to%20Critical%20Infrastructure%20Protection%20(ICIP)-6D28D9?style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT ICIP" />
-    </a>
-</div>
+    <a href="YOUR_OPSWAT_CERTIFICATE_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/OPSWAT-ICIP-6D28D9?style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT ICIP" />
+</a>
 
 
 ### **Professional Certifications (In Progress)**
