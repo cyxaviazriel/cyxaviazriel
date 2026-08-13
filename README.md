@@ -1,4 +1,4 @@
-# Hello, I'm Alebiosu Oluwadamilare Samuel
+<h1 align="center">ALEBIOSU OLUWADAMILARE SAMUEL</h1>
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/alebiosu-soc" target="_blank"> 
@@ -32,6 +32,19 @@ I am a driven problem solver with a profound interest in technology and a dedica
 
 My technical background has inspired a strong passion for cybersecurity, and I am actively pursuing a career as a Security Operations Center (SOC) Tier 1 Analyst, where I can apply my skills to monitor, analyze, and respond to security threats.
 
+---
+
+#  Projects Highlights
+
+### 🔐 Apex Healthcare VAPT
+<a href="https://github.com/cyxaviazriel/apex-healthcare-vapt" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-Apex%20Healthcare%20VAPT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Apex Healthcare VAPT"/>
+</a>
+
+**Vulnerability Assessment & Penetration Testing project focused on identifying security weaknesses, assessing risks, and documenting security findings.**
+
+---
+
 ### **Skills**
 
 | Skill | Experience |
@@ -47,6 +60,7 @@ My technical background has inspired a strong passion for cybersecurity, and I a
 | Security Documentation | ✔ |
 
 ### **Security Tools**
+
 ### Reconnaissance & Scanning
 <div>
     <img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge&logoColor=white" alt="Nmap" />
@@ -113,18 +127,19 @@ My technical background has inspired a strong passion for cybersecurity, and I a
     <a href="YOUR_CERTIFICATE_LINK">
         <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Cyber%20Threat%20Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
     </a>
-  
-<!-- TS Academy — Cybersecurity -->
-<a href="YOUR_TS_ACADEMY_CERTIFICATE_LINK">
-    <img src="https://img.shields.io/badge/TS%20Academy-Cybersecurity-007BFF?style=for-the-badge&logo=shield&logoColor=white" alt="TS Academy Cybersecurity" />
-</a>
+    
 
-<!-- OPSWAT — ICIP -->
-<a href="YOUR_OPSWAT_CERTIFICATE_LINK">
-    <img src="https://img.shields.io/badge/OPSWAT-Introduction%20to%20Critical%20Infrastructure%20Protection%20(ICIP)-6D28D9?style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT ICIP" />
-</a>
+    <!-- TS Academy — Cybersecurity -->
+    <a href="YOUR_TS_ACADEMY_CERTIFICATE_LINK">
+        <img src="https://img.shields.io/badge/TS%20Academy-Cybersecurity-007BFF?style=for-the-badge&logo=shield&logoColor=white" alt="TS Academy Cybersecurity" />
+    </a>
 
+    <!-- OPSWAT — ICIP -->
+    <a href="YOUR_OPSWAT_CERTIFICATE_LINK">
+        <img src="https://img.shields.io/badge/OPSWAT-Introduction%20to%20Critical%20Infrastructure%20Protection%20(ICIP)-6D28D9?style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT ICIP" />
+    </a>
 </div>
+
 
 ### **Professional Certifications (In Progress)**
 
@@ -134,9 +149,6 @@ My technical background has inspired a strong passion for cybersecurity, and I a
     <img src="https://img.shields.io/badge/CompTIA-CySA%2B-F57C00?style=for-the-badge&logo=comptia&logoColor=white" />
 </div>
 
-### **Project**
-<a href="https://github.com/cyxaviazriel/apex-healthcare-vapt" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Project-Apex%20Healthcare%20VAPT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Apex Healthcare VAPT"/>
-</a>
+---
 
-**Cybersecurity is not just about finding vulnerabilities it's about understanding risk, protecting systems, and continuously improving security.**
+**Cybersecurity is not just about finding vulnerabilities — it's about understanding risk, protecting systems, and continuously improving security.**
