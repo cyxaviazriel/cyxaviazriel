@@ -1,4 +1,4 @@
-<h1 align="center">ALEBIOSU OLUWADAMILARE SAMUEL</h1>
+<h1 align="center">  🛡️ALEBIOSU OLUWADAMILARE SAMUEL</h1>
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/alebiosu-soc" target="_blank"> 
@@ -28,15 +28,15 @@
 
 I am a driven problem solver with a profound interest in technology and a dedication to tackling complex challenges.
 
-### Objective
+###   🛡️Objective
 
 My technical background has inspired a strong passion for cybersecurity, and I am actively pursuing a career as a Security Operations Center (SOC) Tier 1 Analyst, where I can apply my skills to monitor, analyze, and respond to security threats.
 
 ---
 
-#  Projects Highlights
+#    Projects Highlights
 
-### 🔐 Apex Healthcare VAPT
+###   🛡️ Apex Healthcare VAPT
 <a href="https://github.com/cyxaviazriel/apex-healthcare-vapt" target="_blank">
   <img src="https://img.shields.io/badge/View%20Project-Apex%20Healthcare%20VAPT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Apex Healthcare VAPT"/>
 </a>
@@ -135,7 +135,7 @@ My technical background has inspired a strong passion for cybersecurity, and I a
 </a>
 
 
-### **Professional Certifications (In Progress)**
+###   🛡️**Professional Certifications (In Progress)**
 
 <div>
     <img src="https://img.shields.io/badge/CompTIA-Network%2B-F57C00?style=for-the-badge&logo=comptia&logoColor=white" />
@@ -145,4 +145,10 @@ My technical background has inspired a strong passion for cybersecurity, and I a
 
 ---
 
-**Cybersecurity is not just about finding vulnerabilities — it's about understanding risk, protecting systems, and continuously improving security.**
+<p align="center">
+  <strong>
+    🛡️ <span style="color:#00FF9C;">CYBERSECURITY IS NOT JUST ABOUT FINDING VULNERABILITIES</span><br>
+    <span style="color:#00FF9C;">IT'S ABOUT UNDERSTANDING RISK, PROTECTING SYSTEMS,</span><br>
+    <span style="color:#00FF9C;">AND CONTINUOUSLY IMPROVING SECURITY.</span>
+  </strong>
+</p>
