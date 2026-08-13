@@ -127,13 +127,12 @@ My technical background has inspired a strong passion for cybersecurity, and I a
     <a href="YOUR_CERTIFICATE_LINK">
         <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Cyber%20Threat%20Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
     </a>
-    
 
   <a href="YOUR_TS_ACADEMY_CERTIFICATE_LINK" target="_blank">
   <img src="https://img.shields.io/badge/TS%20ACADEMY-CYBERSECURITY-007BFF?style=for-the-badge&logo=shield&logoColor=white" alt="TS Academy Cybersecurity" />
 </a>
 
-    <a href="YOUR_OPSWAT_CERTIFICATE_LINK" target="_blank">
+ <a href="YOUR_OPSWAT_CERTIFICATE_LINK" target="_blank">
   <img src="https://img.shields.io/badge/OPSWAT-ICIP-6D28D9?style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT ICIP" />
 </a>
 
