@@ -35,7 +35,7 @@ My technical background has cultivated a strong passion for cybersecurity, drivi
 
 ---
 
-#      Projects Highlights
+#     🛡️Projects Highlights
 
 <p align="center">
   <img src="https://img.shields.io/badge/CYBERSECURITY-PROJECTS-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=white"/>
