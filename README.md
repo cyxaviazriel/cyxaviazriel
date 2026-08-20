@@ -34,12 +34,60 @@ My technical background has inspired a strong passion for cybersecurity, and I a
 
 ---
 
-#    Projects Highlights
+#      Projects Highlights
 
-###   🛡️ Apex Healthcare VAPT
+<p align="center">
+  <img src="https://img.shields.io/badge/CYBERSECURITY-PROJECTS-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VAPT-%26%20SECURITY-7C3AED?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HANDS--ON-LABS-22C55E?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+---
+
+### 🛡️ Apex Healthcare VAPT
+
+<p>
+  <img src="https://img.shields.io/badge/VAPT-Vulnerability%20Assessment-EF4444?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Healthcare-Security-DC2626?style=for-the-badge&logo=protonvpn&logoColor=white"/>
+</p>
+
 <a href="https://github.com/cyxaviazriel/apex-healthcare-vapt" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Project-Apex%20Healthcare%20VAPT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Apex Healthcare VAPT"/>
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-Apex%20Healthcare%20VAPT-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Apex Healthcare VAPT"/>
 </a>
+
+---
+
+### 🛡️ Cybersecurity Lab Setup
+
+<p>
+  <img src="https://img.shields.io/badge/LAB-Virtual%20Environment-06B6D4?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NETWORKING-Linux%20%26%20Security-2563EB?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+<a href="https://github.com/cyxaviazriel/Cybersecurity-Lab-Setup1" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-Cybersecurity%20Lab%20Setup-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Cybersecurity Lab Setup"/>
+</a>
+
+---
+
+### 🛡️ Penetration Testing Report
+
+<p>
+  <img src="https://img.shields.io/badge/PENETRATION-TESTING-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NETWORK-SCANNING-9333EA?style=for-the-badge&logo=nmap&logoColor=white"/>
+</p>
+
+<a href="https://github.com/cyxaviazriel/PENETRATION-TESTING-REPORT" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-Penetration%20Testing%20Report-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Penetration Testing Report"/>
+</a>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20LEARNING-22C55E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00E5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BUILDING-IN%20PUBLIC-F59E0B?style=for-the-badge"/>
+</p>
 
 **Vulnerability Assessment & Penetration Testing project focused on identifying security weaknesses, assessing risks, and documenting security findings.**
 
