@@ -26,11 +26,12 @@
   </a>
 </p>
 
-I am a driven problem solver with a profound interest in technology and a dedication to tackling complex challenges.
+I am a results driven cybersecurity professional with a strong passion for technology, problem solving, and security. 
+I am committed to analyzing complex challenges, developing effective solutions, and continuously expanding my technical expertise.
 
 ###   🛡️Objective
 
-My technical background has inspired a strong passion for cybersecurity, and I am actively pursuing a career as a Security Operations Center (SOC) Tier 1 Analyst, where I can apply my skills to monitor, analyze, and respond to security threats.
+My technical background has cultivated a strong passion for cybersecurity, driving my pursuit of a career as a Security Operations Center (SOC) Tier 1 Analyst. I aim to leverage my technical knowledge and analytical skills to monitor security environments, investigate potential threats, identify vulnerabilities, and support effective incident detection and response.
 
 ---
 
