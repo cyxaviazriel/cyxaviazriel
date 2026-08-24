@@ -1,41 +1,60 @@
-<h1 align="center">  🛡️ALEBIOSU OLUWADAMILARE SAMUEL</h1>
+<h1 align="center">🛡️ ALEBIOSU OLUWADAMILARE SAMUEL</h1>
 
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/alebiosu-soc" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
-  </a> 
+<p align="center">
+  <strong>Cybersecurity Analyst | VAPT | SOC | Network Security | GRC</strong>
+</p>
 
-  <a href="mailto:alebiosuva@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> 
-  </a> 
-
-  <a href="https://wa.me/2348141571631" target="_blank"> 
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/alebiosu-soc">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-  <a href="https://t.me/cyxaviazriel" target="_blank"> 
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> 
+  <a href="mailto:alebiosuva@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
-  <a href="https://twitter.com/cyxaviazriel" target="_blank"> 
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/> 
+  <a href="https://github.com/cyxaviazriel">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
-  <a href="https://instagram.com/cyxaviazriel" target="_blank"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> 
+  <a href="https://wa.me/2348141571631">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://t.me/cyxaviazriel">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://twitter.com/cyxaviazriel">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 
-I am a results driven cybersecurity professional with a strong passion for technology, problem solving, and security. 
-I am committed to analyzing complex challenges, developing effective solutions, and continuously expanding my technical expertise.
+---
 
-###   🛡️Objective
+## 🛡️ About Me
 
-My technical background has cultivated a strong passion for cybersecurity, driving my pursuit of a career as a Security Operations Center (SOC) Tier 1 Analyst. I aim to leverage my technical knowledge and analytical skills to monitor security environments, investigate potential threats, identify vulnerabilities, and support effective incident detection and response.
+I am an emerging **cybersecurity practitioner** focused on vulnerability assessment, network security, security operations, and risk analysis.
+
+My hands-on experience includes controlled security assessments, network reconnaissance, service enumeration, vulnerability scanning, security testing, risk assessment, remediation planning, and security documentation.
+
+I enjoy breaking down complex security problems, identifying weaknesses, understanding their potential business impact, and developing practical recommendations to improve security posture.
+
+My current career focus is **Security Operations Center (SOC) Tier 1**, with a strong foundation in **Vulnerability Assessment & Penetration Testing (VAPT), network security, and GRC**.
 
 ---
 
-#     🛡️Projects Highlights
+## 🎯 Career Objective
+
+My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where I can apply my technical and analytical skills to:
+
+- Monitor security environments.
+- Investigate suspicious activity and potential threats.
+- Analyze security events and vulnerabilities.
+- Support incident detection and response.
+- Perform security assessments.
+- Identify and prioritize security risks.
+- Document findings and recommendations.
+- Continuously improve organizational security posture.
+
+---
+
+# 🛡️ Featured Cybersecurity Projects
 
 <p align="center">
   <img src="https://img.shields.io/badge/CYBERSECURITY-PROJECTS-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=white"/>
@@ -45,159 +64,259 @@ My technical background has cultivated a strong passion for cybersecurity, drivi
 
 ---
 
-### 🛡️ Apex Healthcare VAPT
+## 🔴 Apex Healthcare Solutions — VAPT
+
+**TS Academy Cybersecurity Capstone | Group 104 | July 2026**
+
+**Role:** Group Leader  
+**Team:** 15 members
+
+A simulated healthcare cybersecurity assessment focused on identifying, validating, and prioritizing security weaknesses across intentionally vulnerable **Kioptrix** and **Metasploitable 2** environments.
+
+### Assessment Highlights
+
+- **6 vulnerabilities documented**
+- **5 High-risk findings**
+- Network reconnaissance and enumeration
+- Vulnerability scanning
+- Controlled vulnerability validation
+- CVE research and mapping
+- Likelihood × Impact risk assessment
+- Remediation prioritization
+- Healthcare-data risk analysis
+- GRC documentation and security policies
+
+### Technical Workflow
+
+**Reconnaissance → Enumeration → Vulnerability Scanning → Controlled Validation → Risk Assessment → Remediation → GRC**
+
+### Tools Used
 
 <p>
-  <img src="https://img.shields.io/badge/VAPT-Vulnerability%20Assessment-EF4444?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Healthcare-Security-DC2626?style=for-the-badge&logo=protonvpn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-1679A7?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus"/>
+  <img src="https://img.shields.io/badge/OpenVAS-3A7D44?style=for-the-badge" alt="OpenVAS"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Nikto-4B0082?style=for-the-badge" alt="Nikto"/>
+  <img src="https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge" alt="SQLMap"/>
+  <img src="https://img.shields.io/badge/Enum4Linux-2F3136?style=for-the-badge&logo=linux&logoColor=white" alt="Enum4Linux"/>
 </p>
 
-<a href="https://github.com/cyxaviazriel/apex-healthcare-vapt" target="_blank">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-Apex%20Healthcare%20VAPT-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Apex Healthcare VAPT"/>
+<a href="https://github.com/cyxaviazriel/apex-healthcare-vapt">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-Apex%20Healthcare%20VAPT-18181B?style=for-the-badge&logo=github&logoColor=white" alt="View Apex Healthcare VAPT Project"/>
 </a>
 
 ---
 
-### 🛡️ Cybersecurity Lab Setup
+## 🔵 Cybersecurity Lab Setup
+
+A hands-on cybersecurity laboratory environment designed for practicing networking, Linux administration, virtualization, reconnaissance, and security testing.
+
+### Focus Areas
+
+- Virtualized security environments
+- Linux security
+- Network configuration
+- Vulnerable machine deployment
+- Security testing laboratories
+- Network reconnaissance
+- Practical cybersecurity experimentation
+
+### Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/LAB-Virtual%20Environment-06B6D4?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NETWORKING-Linux%20%26%20Security-2563EB?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Networking-2563EB?style=for-the-badge" alt="Networking"/>
 </p>
 
-<a href="https://github.com/cyxaviazriel/Cybersecurity-Lab-Setup1" target="_blank">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-Cybersecurity%20Lab%20Setup-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Cybersecurity Lab Setup"/>
+<a href="https://github.com/cyxaviazriel/Cybersecurity-Lab-Setup1">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-Cybersecurity%20Lab%20Setup-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="View Cybersecurity Lab Setup"/>
 </a>
 
 ---
 
-### 🛡️ Penetration Testing Report
+## 🟣 Penetration Testing Report
+
+A documented penetration testing project demonstrating network reconnaissance, scanning, enumeration, vulnerability identification, and security reporting.
+
+### Focus Areas
+
+- Network scanning
+- Service enumeration
+- Vulnerability identification
+- Security testing
+- Findings documentation
+- Risk analysis
+- Security reporting
+
+### Tools
 
 <p>
-  <img src="https://img.shields.io/badge/PENETRATION-TESTING-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NETWORK-SCANNING-9333EA?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-1679A7?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
 </p>
 
-<a href="https://github.com/cyxaviazriel/PENETRATION-TESTING-REPORT" target="_blank">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-Penetration%20Testing%20Report-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Penetration Testing Report"/>
+<a href="https://github.com/cyxaviazriel/PENETRATION-TESTING-REPORT">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-Penetration%20Testing%20Report-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View Penetration Testing Report"/>
 </a>
 
 ---
+
+# 🔐 Technical Skills
+
+### Vulnerability & Security Assessment
+
+<p>
+  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-8A2BE2?style=for-the-badge" alt="Vulnerability Assessment"/>
+  <img src="https://img.shields.io/badge/Penetration%20Testing-DC143C?style=for-the-badge" alt="Penetration Testing"/>
+  <img src="https://img.shields.io/badge/Vulnerability%20Scanning-FF8C00?style=for-the-badge" alt="Vulnerability Scanning"/>
+  <img src="https://img.shields.io/badge/Network%20Reconnaissance-1679A7?style=for-the-badge" alt="Network Reconnaissance"/>
+  <img src="https://img.shields.io/badge/Service%20Enumeration-4682B4?style=for-the-badge" alt="Service Enumeration"/>
+</p>
+
+### Risk & Security Operations
+
+<p>
+  <img src="https://img.shields.io/badge/Risk%20Assessment-2E8B57?style=for-the-badge" alt="Risk Assessment"/>
+  <img src="https://img.shields.io/badge/CVE%20Research-6A5ACD?style=for-the-badge" alt="CVE Research"/>
+  <img src="https://img.shields.io/badge/Security%20Reporting-708090?style=for-the-badge" alt="Security Reporting"/>
+  <img src="https://img.shields.io/badge/Remediation%20Planning-228B22?style=for-the-badge" alt="Remediation Planning"/>
+  <img src="https://img.shields.io/badge/GRC-1E3A8A?style=for-the-badge" alt="GRC"/>
+</p>
+
+### Security Documentation
+
+- Security assessment reports
+- Vulnerability documentation
+- Risk analysis
+- Remediation recommendations
+- Security policies
+- GRC documentation
+- Technical findings
+- Business-risk analysis
+
+---
+
+# 🧰 Security Toolkit
+
+### Reconnaissance & Enumeration
+
+<p>
+  <img src="https://img.shields.io/badge/Nmap-1679A7?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Enum4Linux-2F3136?style=for-the-badge&logo=linux&logoColor=white" alt="Enum4Linux"/>
+  <img src="https://img.shields.io/badge/Nikto-4B0082?style=for-the-badge" alt="Nikto"/>
+  <img src="https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge" alt="SQLMap"/>
+</p>
+
+### Vulnerability Assessment
+
+<p>
+  <img src="https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus"/>
+  <img src="https://img.shields.io/badge/OpenVAS-3A7D44?style=for-the-badge" alt="OpenVAS"/>
+  <img src="https://img.shields.io/badge/Nmap-1679A7?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+</p>
+
+### Controlled Security Testing
+
+<p>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+</p>
+
+### Web & Network Analysis
+
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+</p>
+
+### Operating Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+### Virtualization
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Oracle VirtualBox"/>
+</p>
+
+---
+
+# 🎓 Certifications & Training
+
+### Cisco Networking Academy
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Introduction to Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Basics"/>
+  <img src="https://img.shields.io/badge/Cisco-Network%20Defense-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Network Defense"/>
+  <img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Ethical Hacker"/>
+  <img src="https://img.shields.io/badge/Cisco-Endpoint%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Endpoint Security"/>
+  <img src="https://img.shields.io/badge/Cisco-Cyber%20Threat%20Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cyber Threat Management"/>
+  <img src="https://img.shields.io/badge/Cisco-Networking%20Devices%20%26%20Initial%20Configuration-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Devices and Initial Configuration"/>
+</p>
+
+### Additional Cybersecurity Training
+
+<p>
+  <img src="https://img.shields.io/badge/TS%20ACADEMY-CYBERSECURITY-007BFF?style=for-the-badge&logo=shield&logoColor=white" alt="TS Academy Cybersecurity"/>
+  <img src="https://img.shields.io/badge/OPSWAT-ICIP-6D28D9?style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT ICIP"/>
+</p>
+
+> **Certificate verification links can be added to the badges above once the final certificate URLs are available.**
+
+---
+
+# 📚 Professional Certifications — In Progress
+
+<p>
+  <img src="https://img.shields.io/badge/CompTIA-Network%2B-F57C00?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Network+"/>
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-F57C00?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+"/>
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-F57C00?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA CySA+"/>
+</p>
+
+---
+
+# 📈 Current Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20LEARNING-22C55E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00E5FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BUILDING-IN%20PUBLIC-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-SOC%20TIER%201-00E5FF?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FOCUS-VAPT-7C3AED?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FOCUS-NETWORK%20SECURITY-2563EB?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FOCUS-GRC-22C55E?style=for-the-badge&logo=shield&logoColor=white"/>
 </p>
 
-**Vulnerability Assessment & Penetration Testing project focused on identifying security weaknesses, assessing risks, and documenting security findings.**
+I am continuously developing my practical cybersecurity capabilities through hands-on laboratories, vulnerability assessments, security documentation, networking practice, and structured cybersecurity training.
 
 ---
 
-### **Skills**
-
-| Skill | Experience |
-|--------|------------|
-| Vulnerability Assessment | ✔ |
-| Penetration Testing | ✔ |
-| Network Scanning | ✔ |
-| Enumeration | ✔ |
-| Web Application Security Testing | ✔ |
-| Exploitation | ✔ |
-| Risk Assessment | ✔ |
-| Security Reporting | ✔ |
-| Security Documentation | ✔ |
-
-### **Security Tools**
-
-### Reconnaissance & Scanning
-<div>
-    <img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge&logoColor=white" alt="Nmap" />
-</div>
-
-### **Vulnerability Assessment**
-<div>
-    <img src="https://img.shields.io/badge/-Nessus-00A4EF?&style=for-the-badge&logoColor=white" alt="Nessus" />
-    <img src="https://img.shields.io/badge/-OpenVAS-4CAF50?&style=for-the-badge&logoColor=white" alt="OpenVAS" />
-    <img src="https://img.shields.io/badge/-Nikto-CC0000?&style=for-the-badge&logoColor=white" alt="Nikto" />
-    <img src="https://img.shields.io/badge/-SQLMap-F57C00?&style=for-the-badge&logoColor=white" alt="SQLMap" />
-</div>
-
-### **Exploitation Frameworks**
-<div>
-    <img src="https://img.shields.io/badge/-Metasploit%20Framework-2E86C1?&style=for-the-badge&logoColor=white" alt="Metasploit Framework" />
-</div>
-
-### **Supporting Tools**
-<div>
-    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?&style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-</div>
-
-### **Operating Systems**
-<div>
-    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Linux" />
-</div>
-
-### **Virtualization**
-<div>
-    <img src="https://img.shields.io/badge/-Oracle%20VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" alt="Oracle VirtualBox" />
-</div>
-
-### **Certifications**
-
-<div>
-    <!-- Cisco Networking Academy -->
-    <a href="YOUR_CERTIFICATE_LINK">
-        <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-    </a>
-    <a href="YOUR_CERTIFICATE_LINK">
-        <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-    </a>
-    <a href="YOUR_CERTIFICATE_LINK">
-        <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Getting%20Started%20with%20Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-    </a>
-    <a href="YOUR_CERTIFICATE_LINK">
-        <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Network%20Defense-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-    </a>
-    <a href="YOUR_CERTIFICATE_LINK">
-        <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Junior%20Cybersecurity%20Analyst%20Career%20Path%20Exam-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /
-    </a>
-    <a href="YOUR_CERTIFICATE_LINK">
-        <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Networking%20Devices%20and%20Initial%20Configuration-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-    </a>
-    <a href="YOUR_CERTIFICATE_LINK">
-        <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-    </a>
-    <a href="YOUR_CERTIFICATE_LINK">
-        <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Endpoint%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-    </a>
-    <a href="YOUR_CERTIFICATE_LINK">
-        <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Cyber%20Threat%20Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-    </a>
-  <a href="YOUR_TS_ACADEMY_CERTIFICATE_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/TS%20ACADEMY-CYBERSECURITY-007BFF?style=for-the-badge&logo=shield&logoColor=white" alt="TS Academy Cybersecurity" />
-</a>
- <a href="YOUR_OPSWAT_CERTIFICATE_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/OPSWAT-ICIP-6D28D9?style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT ICIP" />
-</a>
-
-
-###   🛡️**Professional Certifications (In Progress)**
-
-<div>
-    <img src="https://img.shields.io/badge/CompTIA-Network%2B-F57C00?style=for-the-badge&logo=comptia&logoColor=white" />
-    <img src="https://img.shields.io/badge/CompTIA-Security%2B-F57C00?style=for-the-badge&logo=comptia&logoColor=white" />
-    <img src="https://img.shields.io/badge/CompTIA-CySA%2B-F57C00?style=for-the-badge&logo=comptia&logoColor=white" />
-</div>
-
----
+# 🛡️ Professional Philosophy
 
 <p align="center">
   <strong>
-    🛡️ <span style="color:#00FF9C;">CYBERSECURITY IS NOT JUST ABOUT FINDING VULNERABILITIES</span><br>
-    <span style="color:#00FF9C;">IT'S ABOUT UNDERSTANDING RISK, PROTECTING SYSTEMS,</span><br>
-    <span style="color:#00FF9C;">AND CONTINUOUSLY IMPROVING SECURITY.</span>
+    SECURITY IS NOT JUST ABOUT FINDING VULNERABILITIES.<br/>
+    IT IS ABOUT UNDERSTANDING RISK, PROTECTING SYSTEMS,<br/>
+    AND CONTINUOUSLY IMPROVING SECURITY POSTURE.
   </strong>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVELY%20LEARNING-22C55E?style=for-the-badge" alt="Actively Learning"/>
+  <img src="https://img.shields.io/badge/CAREER%20FOCUS-CYBERSECURITY-00E5FF?style=for-the-badge" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/GOAL-SOC%20ANALYST-7C3AED?style=for-the-badge" alt="SOC Analyst"/>
+</p>
+
+<p align="center">
+  <strong>🛡️ Building practical cybersecurity skills through hands-on experience.</strong>
 </p>
