@@ -31,7 +31,7 @@
 
 I am an emerging **cybersecurity practitioner** focused on vulnerability assessment, network security, security operations, and risk analysis.
 
-My hands-on experience includes controlled security assessments, network reconnaissance, service enumeration, vulnerability scanning, security testing, risk assessment, remediation planning, and security documentation.
+My hands on experience includes controlled security assessments, network reconnaissance, service enumeration, vulnerability scanning, security testing, risk assessment, remediation planning, and security documentation.
 
 I enjoy breaking down complex security problems, identifying weaknesses, understanding their potential business impact, and developing practical recommendations to improve security posture.
 
@@ -39,7 +39,7 @@ My current career focus is **Security Operations Center (SOC) Tier 1**, with a s
 
 ---
 
-## 🎯 Career Objective
+## 🛡️ Career Objective
 
 My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where I can apply my technical and analytical skills to:
 
@@ -64,7 +64,7 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
 
 ---
 
-## 🔴 Apex Healthcare Solutions — VAPT
+## 🛡️ Apex Healthcare Solutions VAPT
 
 **TS Academy Cybersecurity Capstone | Group 104 | July 2026**
 
@@ -110,7 +110,7 @@ A simulated healthcare cybersecurity assessment focused on identifying, validati
 
 ---
 
-## 🔵 Cybersecurity Lab Setup
+## 🛡️ Cybersecurity Lab Setup
 
 A hands-on cybersecurity laboratory environment designed for practicing networking, Linux administration, virtualization, reconnaissance, and security testing.
 
@@ -140,7 +140,7 @@ A hands-on cybersecurity laboratory environment designed for practicing networki
 
 ---
 
-## 🟣 Penetration Testing Report
+## 🛡️ Penetration Testing Report
 
 A documented penetration testing project demonstrating network reconnaissance, scanning, enumeration, vulnerability identification, and security reporting.
 
@@ -168,7 +168,7 @@ A documented penetration testing project demonstrating network reconnaissance, s
 
 ---
 
-# 🔐 Technical Skills
+# 🛡️ Technical Skills
 
 ### Vulnerability & Security Assessment
 
@@ -203,7 +203,7 @@ A documented penetration testing project demonstrating network reconnaissance, s
 
 ---
 
-# 🧰 Security Toolkit
+# 🛡️ Security Toolkit
 
 ### Reconnaissance & Enumeration
 
@@ -251,7 +251,7 @@ A documented penetration testing project demonstrating network reconnaissance, s
 
 ---
 
-# 🎓 Certifications & Training
+# 🛡️ Certifications & Training
 
 ### Cisco Networking Academy
 
@@ -276,7 +276,7 @@ A documented penetration testing project demonstrating network reconnaissance, s
 
 ---
 
-# 📚 Professional Certifications — In Progress
+# 🛡️ Professional Certifications — In Progress
 
 <p>
   <img src="https://img.shields.io/badge/CompTIA-Network%2B-F57C00?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Network+"/>
@@ -286,7 +286,7 @@ A documented penetration testing project demonstrating network reconnaissance, s
 
 ---
 
-# 📈 Current Focus
+# 🛡️ Current Focus
 
 <p align="center">
   <img src="https://img.shields.io/badge/FOCUS-SOC%20TIER%201-00E5FF?style=for-the-badge&logo=security&logoColor=white"/>
