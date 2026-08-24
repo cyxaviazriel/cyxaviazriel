@@ -241,14 +241,20 @@ A documented penetration testing project demonstrating network reconnaissance, s
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10"/>
+  <img src="https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11"/>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windowsserver&logoColor=white" alt="Windows Server"/>
 </p>
 
 ### Virtualization
 
 <p>
   <img src="https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Oracle VirtualBox"/>
+  <img src="https://img.shields.io/badge/VMware%20Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Workstation"/>
+  <img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware ESXi"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Hyper-V"/>
+  <img src="https://img.shields.io/badge/Proxmox-2D3748?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE"/>
 </p>
-
 ---
 
 # 🛡️ Certifications & Training
@@ -276,7 +282,7 @@ A documented penetration testing project demonstrating network reconnaissance, s
 
 ---
 
-# 🛡️ Professional Certifications — In Progress
+# 🛡️ Professional Certifications In Progress
 
 <p>
   <img src="https://img.shields.io/badge/CompTIA-Network%2B-F57C00?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Network+"/>
@@ -318,5 +324,5 @@ I am continuously developing my practical cybersecurity capabilities through han
 </p>
 
 <p align="center">
-  <strong>🛡️ Building practical cybersecurity skills through hands-on experience.</strong>
+  <strong>🛡️ Building practical cybersecurity skills through hands on experience.</strong>
 </p>
