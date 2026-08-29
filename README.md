@@ -267,7 +267,7 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
 
 ---
 
-## 🛡️ Certifications
+# 🛡️ Certifications
 
 <p>
   <img src="https://img.shields.io/badge/TS%20ACADEMY-CYBERSECURITY-007BFF?style=for-the-badge&logo=shield&logoColor=white" alt="TS Academy Cybersecurity"/>
