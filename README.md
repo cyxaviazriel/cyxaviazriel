@@ -269,12 +269,32 @@ A documented penetration testing project demonstrating network reconnaissance, s
 
 <p>
   <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Introduction to Cybersecurity"/>
+ <img width="981" height="666" alt="Introduction to Cybersecurity" src="https://github.com/user-attachments/assets/9d898fb9-fe8c-45d3-b8e1-784a18f36213" />
+  
   <img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Basics"/>
+  <img width="985" height="672" alt="Networking Basics" src="https://github.com/user-attachments/assets/bdf312fa-3294-4e6c-a6ec-893f5284b4c1" />
+
   <img src="https://img.shields.io/badge/Cisco-Network%20Defense-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Network Defense"/>
+  <img width="983" height="659" alt="Network Defense" src="https://github.com/user-attachments/assets/ca8027e1-91f0-4d63-bd27-2340e3cf4ee3" />
+
   <img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Ethical Hacker"/>
+  <img width="982" height="664" alt="Ethical Hacker" src="https://github.com/user-attachments/assets/8f2d4938-0b78-4d3e-822e-88071fc43c74" />
+
   <img src="https://img.shields.io/badge/Cisco-Endpoint%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Endpoint Security"/>
+  <img width="980" height="667" alt="Endpoint Security" src="https://github.com/user-attachments/assets/e45e1fb9-8826-4d81-a54a-7968ba10ffd9" />
+
   <img src="https://img.shields.io/badge/Cisco-Cyber%20Threat%20Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cyber Threat Management"/>
+  <img width="982" height="655" alt="Cyber Threat Management" src="https://github.com/user-attachments/assets/fcd2455d-5f89-4e22-a223-84f92afd83f3" />
+
   <img src="https://img.shields.io/badge/Cisco-Networking%20Devices%20%26%20Initial%20Configuration-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Devices and Initial Configuration"/>
+  <img width="980" height="666" alt="Networking Devices and Initial Configuration" src="https://github.com/user-attachments/assets/e88ae083-92ee-47f6-82cd-e5b30d89e349" />
+
+  <img src="https://img.shields.io/badge/Cisco-Getting%20Started%20with%20Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Getting Started with Cisco Packet Tracer"/>
+  <img width="981" height="662" alt="Getting Started with Cisco Packet Tracer" src="https://github.com/user-attachments/assets/e5cbd5fc-653e-4850-be15-bda5a6f7db56" />
+
+  <img src="https://img.shields.io/badge/Cisco-Junior%20Cybersecurity%20Analyst%20Career%20Path%20Exam-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Junior Cybersecurity Analyst Career Path Exam"/>
+  <img width="987" height="673" alt="Junior Cybersecurity Analyst Career Path Exam" src="https://github.com/user-attachments/assets/77bc4d6a-a4ff-40b8-aedd-9fcbcb5ec923" />
+
 </p>
 
 ### Additional Cybersecurity Training
