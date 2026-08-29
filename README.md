@@ -266,7 +266,6 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
 </p>
 
 
-
 ## 🛡️ Certifications
 
 <p>
@@ -276,6 +275,7 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
   <img src="https://img.shields.io/badge/OPSWAT-ICIP-6D28D9?style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT ICIP"/><img width="863" height="652" alt="OPSWAT" src="https://github.com/user-attachments/assets/847ca996-5289-4076-85b0-11ca7aaf3eba" />
 </p>
 
+----
 
 ### Additional Cybersecurity Training
 
@@ -313,7 +313,7 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
 
 ---
 
-# 🛡️ Professional Certifications In Progress
+## 🛡️ Professional Certifications In Progress
 
 <p>
   <img src="https://img.shields.io/badge/CompTIA-Network%2B-F57C00?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Network+"/>
