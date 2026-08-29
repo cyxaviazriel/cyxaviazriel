@@ -33,45 +33,19 @@
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
   </a>
 </p>
----
-
-## 🛡️ About Me
-
-I am an emerging **cybersecurity practitioner** focused on vulnerability assessment, network security, security operations, and risk analysis.
-
-My hands on experience includes controlled security assessments, network reconnaissance, service enumeration, vulnerability scanning, security testing, risk assessment, remediation planning, and security documentation.
-
-I enjoy breaking down complex security problems, identifying weaknesses, understanding their potential business impact, and developing practical recommendations to improve security posture.
-
-My current career focus is **Security Operations Center (SOC) Tier 1**, with a strong foundation in **Vulnerability Assessment & Penetration Testing (VAPT), network security, and GRC**.
 
 ---
 
-## 🛡️ Career Objective
 
-My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where I can apply my technical and analytical skills to:
-
-- Monitor security environments.
-- Investigate suspicious activity and potential threats.
-- Analyze security events and vulnerabilities.
-- Support incident detection and response.
-- Perform security assessments.
-- Identify and prioritize security risks.
-- Document findings and recommendations.
-- Continuously improve organizational security posture.
-
----
-
-# 🛡️ Featured Cybersecurity Projects
+# 🛡️ Projects Highlight
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CYBERSECURITY-PROJECTS-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=white"/>
   <img src="https://img.shields.io/badge/VAPT-%26%20SECURITY-7C3AED?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CYBERSECURITY-PROJECTS-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=white"/>
   <img src="https://img.shields.io/badge/HANDS--ON-LABS-22C55E?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ---
-
 ## 🛡️ Apex Healthcare Solutions VAPT
 
 **TS Academy Cybersecurity Capstone | Group 104 | July 2026**
@@ -173,6 +147,33 @@ A documented penetration testing project demonstrating network reconnaissance, s
 <a href="https://github.com/cyxaviazriel/PENETRATION-TESTING-REPORT">
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-Penetration%20Testing%20Report-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View Penetration Testing Report"/>
 </a>
+
+---
+
+## 🛡️ About Me
+
+I am an emerging **cybersecurity practitioner** focused on vulnerability assessment, network security, security operations, and risk analysis.
+
+My hands on experience includes controlled security assessments, network reconnaissance, service enumeration, vulnerability scanning, security testing, risk assessment, remediation planning, and security documentation.
+
+I enjoy breaking down complex security problems, identifying weaknesses, understanding their potential business impact, and developing practical recommendations to improve security posture.
+
+My current career focus is **Security Operations Center (SOC) Tier 1**, with a strong foundation in **Vulnerability Assessment & Penetration Testing (VAPT), network security, and GRC**.
+
+---
+
+## 🛡️ Career Objective
+
+My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where I can apply my technical and analytical skills to:
+
+- Monitor security environments.
+- Investigate suspicious activity and potential threats.
+- Analyze security events and vulnerabilities.
+- Support incident detection and response.
+- Perform security assessments.
+- Identify and prioritize security risks.
+- Document findings and recommendations.
+- Continuously improve organizational security posture.
 
 ---
 
