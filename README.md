@@ -266,7 +266,20 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
 </p>
 ---
 
-# 🛡️ Certifications & Training
+ 🛡️ Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/TS%20ACADEMY-CYBERSECURITY-007BFF?style=for-the-badge&logo=shield&logoColor=white" alt="TS Academy Cybersecurity"/>
+  <img width="1082" height="666" alt="Ts Academy" src="https://github.com/user-attachments/assets/f7f9e385-4442-470e-9ec7-b50e9efdc4d8" />
+
+  <img src="https://img.shields.io/badge/OPSWAT-ICIP-6D28D9?style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT ICIP"/>
+  <img width="863" height="652" alt="OPSWAT" src="https://github.com/user-attachments/assets/847ca996-5289-4076-85b0-11ca7aaf3eba" />
+
+</p>
+
+---
+
+### Additional Cybersecurity Training
 
 ### Cisco Networking Academy
 
@@ -299,15 +312,6 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
   <img width="987" height="673" alt="Junior Cybersecurity Analyst Career Path Exam" src="https://github.com/user-attachments/assets/77bc4d6a-a4ff-40b8-aedd-9fcbcb5ec923" />
 
 </p>
-
-### Additional Cybersecurity Training
-
-<p>
-  <img src="https://img.shields.io/badge/TS%20ACADEMY-CYBERSECURITY-007BFF?style=for-the-badge&logo=shield&logoColor=white" alt="TS Academy Cybersecurity"/>
-  <img src="https://img.shields.io/badge/OPSWAT-ICIP-6D28D9?style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT ICIP"/>
-</p>
-
-> **Certificate verification links can be added to the badges above once the final certificate URLs are available.**
 
 ---
 
