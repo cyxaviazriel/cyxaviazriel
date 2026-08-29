@@ -265,6 +265,7 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
   <img src="https://img.shields.io/badge/Proxmox-2D3748?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE"/>
 </p>
 
+---
 
 ## 🛡️ Certifications
 
