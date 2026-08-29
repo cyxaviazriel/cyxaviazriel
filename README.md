@@ -273,11 +273,9 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
   <img src="https://img.shields.io/badge/TS%20ACADEMY-CYBERSECURITY-007BFF?style=for-the-badge&logo=shield&logoColor=white" alt="TS Academy Cybersecurity"/>
   <img width="1082" height="666" alt="Ts Academy" src="https://github.com/user-attachments/assets/f7f9e385-4442-470e-9ec7-b50e9efdc4d8" />
 
-  <img src="https://img.shields.io/badge/OPSWAT-ICIP-6D28D9?style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT ICIP"/>
-  <img width="863" height="652" alt="OPSWAT" src="https://github.com/user-attachments/assets/847ca996-5289-4076-85b0-11ca7aaf3eba" />
+  <img src="https://img.shields.io/badge/OPSWAT-ICIP-6D28D9?style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT ICIP"/><img width="863" height="652" alt="OPSWAT" src="https://github.com/user-attachments/assets/847ca996-5289-4076-85b0-11ca7aaf3eba" />
 </p>
 
----
 
 ### Additional Cybersecurity Training
 
@@ -321,41 +319,4 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
   <img src="https://img.shields.io/badge/CompTIA-Network%2B-F57C00?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Network+"/>
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-F57C00?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+"/>
   <img src="https://img.shields.io/badge/CompTIA-CySA%2B-F57C00?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA CySA+"/>
-</p>
-
----
-
-# 🛡️ Current Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-SOC%20TIER%201-00E5FF?style=for-the-badge&logo=security&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FOCUS-VAPT-7C3AED?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FOCUS-NETWORK%20SECURITY-2563EB?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FOCUS-GRC-22C55E?style=for-the-badge&logo=shield&logoColor=white"/>
-</p>
-
-I am continuously developing my practical cybersecurity capabilities through hands-on laboratories, vulnerability assessments, security documentation, networking practice, and structured cybersecurity training.
-
----
-
-# 🛡️ Professional Philosophy
-
-<p align="center">
-  <strong>
-    SECURITY IS NOT JUST ABOUT FINDING VULNERABILITIES.<br/>
-    IT IS ABOUT UNDERSTANDING RISK, PROTECTING SYSTEMS,<br/>
-    AND CONTINUOUSLY IMPROVING SECURITY POSTURE.
-  </strong>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVELY%20LEARNING-22C55E?style=for-the-badge" alt="Actively Learning"/>
-  <img src="https://img.shields.io/badge/CAREER%20FOCUS-CYBERSECURITY-00E5FF?style=for-the-badge" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/GOAL-SOC%20ANALYST-7C3AED?style=for-the-badge" alt="SOC Analyst"/>
-</p>
-
-<p align="center">
-  <strong>🛡️ Building practical cybersecurity skills through hands on experience.</strong>
 </p>
