@@ -29,8 +29,10 @@
   <a href="https://twitter.com/cyxaviazriel">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
+  <a href="https://www.threads.com/@cyxaviazriel">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
+  </a>
 </p>
-
 ---
 
 ## 🛡️ About Me
