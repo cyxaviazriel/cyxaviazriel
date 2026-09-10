@@ -63,12 +63,12 @@ A professional **web application penetration testing capstone project** for Medi
 - **2 High-risk findings**
 - **2 Medium-risk findings**
 - SQL injection login-bypass validation
-- Username-enumeration testing
-- Patient-document access assessment
-- Weak PDF-password analysis
+- Username enumeration testing
+- Patient document access assessment
+- Weak PDF password analysis
 - PDF metadata discovery
-- Directory-listing exposure assessment
-- Database-backup exposure and risk analysis
+- Directory listing exposure assessment
+- Database backup exposure and risk analysis
 - Prioritized remediation recommendations
 
 ### Attack Chain
