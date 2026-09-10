@@ -1,5 +1,5 @@
 <h1 align="center">
-  🛡️ ALEBIOSU OLUWADAMILARE SAMUEL
+   ALEBIOSU OLUWADAMILARE SAMUEL
 </h1>
 
 <h2 align="center">
@@ -34,10 +34,9 @@
   </a>
 </p>
 
----
 
 
-# 🛡️ Projects Highlight
+#  Projects Highlight
 
 <p align="center">
   <img src="https://img.shields.io/badge/VAPT-%26%20SECURITY-7C3AED?style=for-the-badge&logo=kalilinux&logoColor=white"/>
@@ -45,8 +44,77 @@
   <img src="https://img.shields.io/badge/HANDS--ON-LABS-22C55E?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
+
+
+## 🥇 1. Mediroza Penetration Testing Capstone Project
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NETWORKWALKS-B082%20WEEK%204-7C3AED?style=for-the-badge&logo=shield&logoColor=white" alt="Networkwalks B082 Week 4"/>
+  <img src="https://img.shields.io/badge/ASSESSMENT-BLACK%20BOX-1F6FEB?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Black Box Assessment"/>
+  <img src="https://img.shields.io/badge/OVERALL%20RISK-CRITICAL-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Critical Risk"/>
+</p>
+
+A professional **web application penetration testing capstone project** for Mediroza General Hospital. This authorized black-box assessment demonstrates a complete attack chain from reconnaissance and authentication weaknesses to confidential data exposure.
+
+### Assessment Highlights
+
+- **7 vulnerabilities identified**
+- **3 Critical-risk findings**
+- **2 High-risk findings**
+- **2 Medium-risk findings**
+- SQL injection login-bypass validation
+- Username-enumeration testing
+- Patient-document access assessment
+- Weak PDF-password analysis
+- PDF metadata discovery
+- Directory-listing exposure assessment
+- Database-backup exposure and risk analysis
+- Prioritized remediation recommendations
+
+### Attack Chain
+
+**Reconnaissance → Username Enumeration → SQL Injection → Patient Portal Access → Confidential PDFs → Weak PDF Passwords → Metadata Disclosure → Directory Listing → Exposed Database Backup**
+
+### Impact Demonstrated
+
+The authorized assessment showed how multiple security weaknesses could expose:
+
+- Confidential patient lab reports
+- Internal document metadata
+- Staff financial and personal records
+- Corporate shareholder information
+- A publicly accessible database backup
+
+> Sensitive records are intentionally redacted and summarized in the public repository.
+
+### Tools Used
+
+<p>
+  <img src="https://img.shields.io/badge/cURL-0B1026?style=for-the-badge&logo=curl&logoColor=white" alt="cURL"/>
+  <img src="https://img.shields.io/badge/Browser%20Developer%20Tools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Browser Developer Tools"/>
+  <img src="https://img.shields.io/badge/QPDF-7C3AED?style=for-the-badge" alt="QPDF"/>
+  <img src="https://img.shields.io/badge/ExifTool-2563EB?style=for-the-badge" alt="ExifTool"/>
+  <img src="https://img.shields.io/badge/Wget-22C55E?style=for-the-badge&logo=linux&logoColor=white" alt="Wget"/>
+  <img src="https://img.shields.io/badge/Networkwalks%20Password%20Cracker-DC2626?style=for-the-badge" alt="Networkwalks Password Cracker"/>
+</p>
+
+### Key Remediation Areas
+
+- Use parameterized queries and prepared statements.
+- Remove database backups from the web root.
+- Disable directory listing.
+- Enforce server-side authorization for patient documents.
+- Strengthen document-password requirements.
+- Remove sensitive metadata before document distribution.
+- Use consistent login error messages.
+
+<a href="https://github.com/cyxaviazriel/Mediroza-Penetration-Testing-Capstone-Project">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-Mediroza%20Penetration%20Testing%20Capstone-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View Mediroza Penetration Testing Capstone Project"/>
+</a>
+
 ---
-## 🛡️ Apex Healthcare Solutions VAPT
+
+## 🥈 2. Apex Healthcare Solutions VAPT
 
 **TS Academy Cybersecurity Capstone | Group 104 | July 2026**
 
@@ -92,7 +160,7 @@ A simulated healthcare cybersecurity assessment focused on identifying, validati
 
 ---
 
-## 🛡️ Cybersecurity Lab Setup
+## 🥉 3. Cybersecurity Lab Setup
 
 A hands-on cybersecurity laboratory environment designed for practicing networking, Linux administration, virtualization, reconnaissance, and security testing.
 
@@ -122,7 +190,7 @@ A hands-on cybersecurity laboratory environment designed for practicing networki
 
 ---
 
-## 🛡️ Penetration Testing Report
+## 4. Penetration Testing Report
 
 A documented penetration testing project demonstrating network reconnaissance, scanning, enumeration, vulnerability identification, and security reporting.
 
@@ -273,10 +341,11 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
   <img src="https://img.shields.io/badge/TS%20ACADEMY-CYBERSECURITY-007BFF?style=for-the-badge&logo=shield&logoColor=white" alt="TS Academy Cybersecurity"/>
   <img width="1082" height="666" alt="Ts Academy" src="https://github.com/user-attachments/assets/f7f9e385-4442-470e-9ec7-b50e9efdc4d8" />
 
-  <img src="https://img.shields.io/badge/OPSWAT-ICIP-6D28D9?style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT ICIP"/><img width="863" height="652" alt="OPSWAT" src="https://github.com/user-attachments/assets/847ca996-5289-4076-85b0-11ca7aaf3eba" />
+  <img src="https://img.shields.io/badge/OPSWAT-ICIP-6D28D9?style=for-the-badge&logo=opswat&logoColor=white" alt="OPSWAT ICIP"/>
+  <img width="863" height="652" alt="OPSWAT" src="https://github.com/user-attachments/assets/847ca996-5289-4076-85b0-11ca7aaf3eba" />
 </p>
 
-----
+---
 
 ### Additional Cybersecurity Training
 
@@ -284,8 +353,8 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
 
 <p>
   <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Introduction to Cybersecurity"/>
- <img width="981" height="666" alt="Introduction to Cybersecurity" src="https://github.com/user-attachments/assets/9d898fb9-fe8c-45d3-b8e1-784a18f36213" />
-  
+  <img width="981" height="666" alt="Introduction to Cybersecurity" src="https://github.com/user-attachments/assets/9d898fb9-fe8c-45d3-b8e1-784a18f36213" />
+
   <img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Basics"/>
   <img width="985" height="672" alt="Networking Basics" src="https://github.com/user-attachments/assets/bdf312fa-3294-4e6c-a6ec-893f5284b4c1" />
 
@@ -309,7 +378,6 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
 
   <img src="https://img.shields.io/badge/Cisco-Junior%20Cybersecurity%20Analyst%20Career%20Path%20Exam-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Junior Cybersecurity Analyst Career Path Exam"/>
   <img width="987" height="673" alt="Junior Cybersecurity Analyst Career Path Exam" src="https://github.com/user-attachments/assets/77bc4d6a-a4ff-40b8-aedd-9fcbcb5ec923" />
-
 </p>
 
 ---
