@@ -230,7 +230,7 @@ My current career focus is **Security Operations Center (SOC) Tier 1**, with a s
 
 ---
 
-## 🛡️ Career Objective
+##  Career Objective
 
 My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where I can apply my technical and analytical skills to:
 
@@ -245,7 +245,7 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
 
 ---
 
-#  Technical Skills
+##  Technical Skills
 
 ### Vulnerability & Security Assessment
 
@@ -267,7 +267,7 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
   <img src="https://img.shields.io/badge/GRC-1E3A8A?style=for-the-badge" alt="GRC"/>
 </p>
 
-### Security Documentation
+## Security Documentation
 
 - Security assessment reports
 - Vulnerability documentation
@@ -280,7 +280,7 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
 
 ---
 
-#  Security Toolkit
+##  Security Toolkit
 
 ### Reconnaissance & Enumeration
 
@@ -335,7 +335,7 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
 
 ---
 
-#  Certifications
+##  Certifications
 
 <p>
   <img src="https://img.shields.io/badge/TS%20ACADEMY-CYBERSECURITY-007BFF?style=for-the-badge&logo=shield&logoColor=white" alt="TS Academy Cybersecurity"/>
