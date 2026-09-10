@@ -46,7 +46,7 @@
 
 
 
-## 🥇 1. Mediroza Penetration Testing Capstone Project
+##  1. Mediroza Penetration Testing Capstone Project
 
 <p align="center">
   <img src="https://img.shields.io/badge/NETWORKWALKS-B082%20WEEK%204-7C3AED?style=for-the-badge&logo=shield&logoColor=white" alt="Networkwalks B082 Week 4"/>
@@ -114,7 +114,7 @@ The authorized assessment showed how multiple security weaknesses could expose:
 
 ---
 
-## 🥈 2. Apex Healthcare Solutions VAPT
+##  2. Apex Healthcare Solutions VAPT
 
 **TS Academy Cybersecurity Capstone | Group 104 | July 2026**
 
@@ -160,7 +160,7 @@ A simulated healthcare cybersecurity assessment focused on identifying, validati
 
 ---
 
-## 🥉 3. Cybersecurity Lab Setup
+##  3. Cybersecurity Lab Setup
 
 A hands-on cybersecurity laboratory environment designed for practicing networking, Linux administration, virtualization, reconnaissance, and security testing.
 
@@ -218,7 +218,7 @@ A documented penetration testing project demonstrating network reconnaissance, s
 
 ---
 
-## 🛡️ About Me
+##  About Me
 
 I am an emerging **cybersecurity practitioner** focused on vulnerability assessment, network security, security operations, and risk analysis.
 
@@ -245,7 +245,7 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
 
 ---
 
-# 🛡️ Technical Skills
+#  Technical Skills
 
 ### Vulnerability & Security Assessment
 
@@ -280,7 +280,7 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
 
 ---
 
-# 🛡️ Security Toolkit
+#  Security Toolkit
 
 ### Reconnaissance & Enumeration
 
@@ -335,7 +335,7 @@ My goal is to build a career as a **SOC Tier 1 / Cybersecurity Analyst**, where 
 
 ---
 
-# 🛡️ Certifications
+#  Certifications
 
 <p>
   <img src="https://img.shields.io/badge/TS%20ACADEMY-CYBERSECURITY-007BFF?style=for-the-badge&logo=shield&logoColor=white" alt="TS Academy Cybersecurity"/>
