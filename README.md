@@ -93,6 +93,7 @@ The authorized assessment showed how multiple security weaknesses could expose:
   <img src="https://img.shields.io/badge/QPDF-7C3AED?style=for-the-badge" alt="QPDF"/>
   <img src="https://img.shields.io/badge/ExifTool-2563EB?style=for-the-badge" alt="ExifTool"/>
   <img src="https://img.shields.io/badge/Wget-22C55E?style=for-the-badge&logo=linux&logoColor=white" alt="Wget"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
   <img src="https://img.shields.io/badge/Networkwalks%20Password%20Cracker-DC2626?style=for-the-badge" alt="Networkwalks Password Cracker"/>
 </p>
 
