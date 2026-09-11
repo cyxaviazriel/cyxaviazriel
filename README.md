@@ -1,5 +1,5 @@
 <h1 align="center">
-   ALEBIOSU OLUWADAMILARE SAMUEL
+  ALEBIOSU OLUWADAMILARE SAMUEL
 </h1>
 
 <h2 align="center">
@@ -12,19 +12,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alebiosu-soc">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:alebiosuva@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/cyxaviazriel">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://medium.com/@cyxaviazriel">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   <a href="https://wa.me/2348141571631">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://t.me/cyxaviazriel">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://twitter.com/cyxaviazriel">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
@@ -33,7 +36,6 @@
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
   </a>
 </p>
-
 
 
 #  Projects Highlight
