@@ -6,9 +6,6 @@
   <code>CYXAVIAZRIEL</code>
 </h2>
 
-<p align="center">
-  <strong>Cybersecurity Analyst | VAPT | SOC | Network Security | GRC</strong>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alebiosu-soc">
@@ -40,9 +37,9 @@
 #  Projects Highlight
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VAPT-%26%20SECURITY-7C3AED?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CYBERSECURITY-PROJECTS-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HANDS--ON-LABS-22C55E?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CYBERSECURITY-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/HANDS--ON-00E5FF?style=for-the-badge&logo=linux&logoColor=white" alt="Hands-on"/>
+  <img src="https://img.shields.io/badge/PROJECTS-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </p>
 
 
